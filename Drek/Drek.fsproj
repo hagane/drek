@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="Task.fs" />
+    <Compile Include="BuildTasks.fs" />
     <Compile Include="Project.fs" />
   </ItemGroup>
   <PropertyGroup>
